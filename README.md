@@ -1,2 +1,15 @@
 # ETEC-landing-page
-Página única desenvolvida em HTML puro com informações institucionais, cursos e contatos sobre a ETEC.
+
+# Sobre a ETEC
+
+Uma página web única desenvolvida em HTML puro que apresenta informações sobre a ETEC, seus cursos e infraestrutura.
+
+##  Tecnologias
+* HTML5: Estruturação semântica do conteúdo.
+
+##  Conteúdo da Página
+* Apresentação institucional da ETEC.
+* Lista de cursos técnicos oferecidos.
+* Informações de contato e localização.
+
+Projeto acadêmico desenvolvido para a ETEC.

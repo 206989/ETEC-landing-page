@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+img{
+    width: 10%;
+}
+strong{
+    font-size: 200%;
+}
+footer{
+    color: white;
+    background-color:black  
+}

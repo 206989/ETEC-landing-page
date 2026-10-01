@@ -6,6 +6,7 @@ Uma página web única desenvolvida em HTML puro que apresenta informações sob
 
 ##  Tecnologias
 * HTML5: Estruturação semântica do conteúdo.
+* CSS
 
 ##  Conteúdo da Página
 * Apresentação institucional da ETEC.
